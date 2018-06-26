@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Udacity Quiz App</string>
+    <string name="heading">Beginners Computer Quiz</string>
+    <string name="udacitylogo">Udacity logo</string>
+    <string name="instructions">Please answer all of the following questions</string>
+    <string name="question_1">1. The Operating System is a :</string>
+    <string name="question_2">2. Files are Organized in the :</string>
+    <string name="question_3">3. Computer Hardware is:</string>
+    <string name="answer1A">A. System Software</string>
+    <string name="answer1B">B. Application Software</string>
+    <string name="answer1C">C. Utility Software</string>
+    <string name="answer1D">D. Malware</string>
+    <string name="answer2A">A. RAM</string>
+    <string name="answer2B">B. Cache</string>
+    <string name="answer2C">C. Directories</string>
+    <string name="answer2D">D. None of the above</string>
+    <string name="answer3A">A. A medium for Data Communications</string>
+    <string name="answer3B">B. A Physical Device that driven by data</string>
+    <string name="answer3C">C. A Physical Device Driven by software</string>
+    <string name="answer3D">D. All of the above</string>
+    <string name="hintName">Please Enter your Name </string>
+    <string name="resultsImage">An image representation of the results</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+    <string name="share">Share Results</string>
+
+</resources>
